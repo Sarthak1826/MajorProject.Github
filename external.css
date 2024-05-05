@@ -16,13 +16,4 @@ margin-bottom: 700px;
 margin-top: -360px;
 
 }
-footer {
-    background-color: #f2f2f2;
-    padding: 20px;
-    text-align: center;
-}
 
-footer {
-    display: block;
-    unicode-bidi: isolate;
-}
